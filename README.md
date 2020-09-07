@@ -5,4 +5,6 @@ Estimar el número de objetos o partículas en una imagen o en un video, que al 
 En este proyecto trataremos de buscar un método que pueda dar una estimación inicial del tamaño de la población para que CountEm pueda elegir unos parámetros iniciales para la rejilla más adecuados y de manera automática. Para ello se estudiarán y analizarán dos métodos de procesado digital de imágenes, uno de ellos más simple y otro estará basado en machine learning.
 
 ***
+El método basado en machine learning se trata de la implementación de Erika Lu (autora) de [Class-Agnostic Counting](https://arxiv.org/abs/1811.00472) en código Python (apoyandose Keras y tensorflow para el aprendizaje automático) disponible en el [reporsitorio](https://github.com/erikalu/class-agnostic-counting).
+***
 Repositorio del trabajo de fin de máster de Eduardo Ruiz Ruiz para el máster de Ciencia de Datos, donde están disponibles los notebooks con el código de las pruebas realizadas y otros archivos relevantes del proyecto.
